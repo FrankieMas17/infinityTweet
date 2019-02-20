@@ -190,7 +190,7 @@ dataFpairs = sqlContext.createDataFrame(pairs)
 dataFpairs.sort(col('frequency').desc()).show(20)
 dataFitems.sort(col('frequency').desc()).show(20)
 
-dataFitems.toPandas().to_csv('mhprovaitem.csv')
-dataFpairs.toPandas().to_csv('mhprovapair.csv')
+dataFitems.toPandas().to_csv('/textItems.csv')
+dataFpairs.toPandas().to_csv('/textPairs.csv')
 
 #dataFitems.write.format('solr').option("zkHost","172.16.175.155:9983").option("collection","endGame").save()

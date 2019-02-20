@@ -1,0 +1,426 @@
+a… --> ball support : 0.0124141464308 confidence 0.65330906402
+ball --> a… support : 0.0124141464308 confidence 0.707736389685
+best --> nba support : 0.0128291942937 confidence 0.369754836298
+nba --> best support : 0.0128291942937 confidence 0.0615184874211
+@worldwidewob: --> at&amp;t support : 0.0124119847232 confidence 0.890435389447
+at&amp;t --> @worldwidewob: support : 0.0124119847232 confidence 0.983344750813
+james --> lebron support : 0.0203389665632 confidence 0.661411925977
+lebron --> james support : 0.0203389665632 confidence 0.131951700103
+gay --> at&amp;t support : 0.0124125251501 confidence 0.972231628852
+at&amp;t --> gay support : 0.0124125251501 confidence 0.983387566364
+center.
+
+rudy --> season support : 0.0124125251501 confidence 1.0
+season --> center.
+
+rudy support : 0.0124125251501 confidence 0.507467962881
+best --> bails.
+lamarcus support : 0.0124125251501 confidence 0.357745864615
+bails.
+lamarcus --> best support : 0.0124125251501 confidence 1.0
+gay --> nba support : 0.0124292783842 confidence 0.973543853708
+nba --> gay support : 0.0124292783842 confidence 0.0596008126795
+center.
+
+rudy --> nba support : 0.0124125251501 confidence 1.0
+nba --> center.
+
+rudy support : 0.0124125251501 confidence 0.0595204776565
+bats --> nba support : 0.012475755098 confidence 0.989116928746
+nba --> bats support : 0.012475755098 confidence 0.0598236775819
+moment --> best support : 0.012589244748 confidence 0.839610740674
+best --> moment support : 0.012589244748 confidence 0.362839163889
+@worldwidewob: --> moment support : 0.0124119847232 confidence 0.890435389447
+moment --> @worldwidewob: support : 0.0124119847232 confidence 0.827788790773
+a… --> nba support : 0.0143602237151 confidence 0.755723671113
+nba --> a… support : 0.0143602237151 confidence 0.0688600719387
+right --> bats support : 0.0124146868577 confidence 0.426893629674
+bats --> right support : 0.0124146868577 confidence 0.98427524744
+right --> moment support : 0.0124800785132 confidence 0.429142198766
+moment --> right support : 0.0124800785132 confidence 0.832330149577
+return --> nba support : 0.0133117955198 confidence 0.677093927815
+nba --> return support : 0.0133117955198 confidence 0.0638326543728
+a… --> at&amp;t support : 0.0124125251501 confidence 0.653223742214
+at&amp;t --> a… support : 0.0124125251501 confidence 0.983387566364
+chucks --> here
+
+the support : 0.0124125251501 confidence 0.998912712565
+here
+
+the --> chucks support : 0.0124125251501 confidence 0.999912929909
+chucks --> @worldwidewob: support : 0.0124119847232 confidence 0.998869221067
+@worldwidewob: --> chucks support : 0.0124119847232 confidence 0.890435389447
+right --> @worldwidewob: support : 0.0124119847232 confidence 0.426800713595
+@worldwidewob: --> right support : 0.0124119847232 confidence 0.890435389447
+a… --> season support : 0.0125006147356 confidence 0.657859560308
+season --> a… support : 0.0125006147356 confidence 0.511069376933
+right --> return support : 0.0125692489525 confidence 0.432208429347
+return --> right support : 0.0125692489525 confidence 0.639324885236
+return --> at&amp;t support : 0.0124136060039 confidence 0.631408230023
+at&amp;t --> return support : 0.0124136060039 confidence 0.983473197465
+bails.
+lamarcus --> nba support : 0.0124125251501 confidence 1.0
+nba --> bails.
+lamarcus support : 0.0124125251501 confidence 0.0595204776565
+favorite --> nba support : 0.0100897703132 confidence 0.713685015291
+nba --> favorite support : 0.0100897703132 confidence 0.0483824154409
+chucks --> bails.
+lamarcus support : 0.0124125251501 confidence 0.998912712565
+bails.
+lamarcus --> chucks support : 0.0124125251501 confidence 1.0
+game --> nba support : 0.0117418553612 confidence 0.255726089311
+nba --> game support : 0.0117418553612 confidence 0.0563044852857
+nba --> at&amp;t support : 0.0124206315537 confidence 0.0595593494418
+at&amp;t --> nba support : 0.0124206315537 confidence 0.984029799623
+ball --> best support : 0.0127616409306 confidence 0.727547216317
+best --> ball support : 0.0127616409306 confidence 0.367807856453
+right --> nba support : 0.0174833507981 confidence 0.601185609158
+nba --> right support : 0.0174833507981 confidence 0.0838360750899
+return --> season support : 0.0124222528344 confidence 0.631848044201
+season --> return support : 0.0124222528344 confidence 0.507865665046
+return --> @worldwidewob: support : 0.0124119847232 confidence 0.631325764864
+@worldwidewob: --> return support : 0.0124119847232 confidence 0.890435389447
+right --> gay support : 0.012413065577 confidence 0.426837880027
+gay --> right support : 0.012413065577 confidence 0.972273958686
+chucks --> bats support : 0.0124125251501 confidence 0.998912712565
+bats --> chucks support : 0.0124125251501 confidence 0.984103860491
+center.
+
+rudy --> chucks support : 0.0124125251501 confidence 1.0
+chucks --> center.
+
+rudy support : 0.0124125251501 confidence 0.998912712565
+@worldwidewob: --> best support : 0.0124119847232 confidence 0.890435389447
+best --> @worldwidewob: support : 0.0124119847232 confidence 0.357730288776
+ball --> at&amp;t support : 0.0124119847232 confidence 0.707613149706
+at&amp;t --> ball support : 0.0124119847232 confidence 0.983344750813
+here
+
+the --> nba support : 0.0124136060039 confidence 1.0
+nba --> here
+
+the support : 0.0124136060039 confidence 0.0595256605612
+center.
+
+rudy --> best support : 0.0124125251501 confidence 1.0
+best --> center.
+
+rudy support : 0.0124125251501 confidence 0.357745864615
+all-star --> nba support : 0.0143650875573 confidence 0.18898819046
+nba --> all-star support : 0.0143650875573 confidence 0.0688833950099
+ball --> bails.
+lamarcus support : 0.0124119847232 confidence 0.707613149706
+bails.
+lamarcus --> ball support : 0.0124119847232 confidence 0.999956461163
+a… --> @worldwidewob: support : 0.0124119847232 confidence 0.653195301613
+@worldwidewob: --> a… support : 0.0124119847232 confidence 0.890435389447
+lakers --> lebron support : 0.0142602447377 confidence 0.360232081911
+lebron --> lakers support : 0.0142602447377 confidence 0.0925151989005
+here
+
+the --> best support : 0.012413065577 confidence 0.999956464954
+best --> here
+
+the support : 0.012413065577 confidence 0.357761440454
+moment --> here
+
+the support : 0.012413065577 confidence 0.827860875833
+here
+
+the --> moment support : 0.012413065577 confidence 0.999956464954
+here
+
+the --> bats support : 0.012413065577 confidence 0.999956464954
+bats --> here
+
+the support : 0.012413065577 confidence 0.984146707228
+season --> nba support : 0.0152151790786 confidence 0.622050375608
+nba --> season support : 0.0152151790786 confidence 0.072959749562
+team --> lebron support : 0.0106285759373 confidence 0.282624628163
+lebron --> team support : 0.0106285759373 confidence 0.0689542735732
+season --> ball support : 0.0124768359518 confidence 0.510097216085
+ball --> season support : 0.0124768359518 confidence 0.711310349077
+right --> best support : 0.0128329772821 confidence 0.441277038579
+best --> right support : 0.0128329772821 confidence 0.369863867169
+moment --> bails.
+lamarcus support : 0.0124125251501 confidence 0.827824833303
+bails.
+lamarcus --> moment support : 0.0124125251501 confidence 1.0
+a… --> moment support : 0.0124152272846 confidence 0.653365945223
+moment --> a… support : 0.0124152272846 confidence 0.828005045954
+chucks --> best support : 0.0124125251501 confidence 0.998912712565
+best --> chucks support : 0.0124125251501 confidence 0.357745864615
+here
+
+the --> ball support : 0.0124119847232 confidence 0.999869394863
+ball --> here
+
+the support : 0.0124119847232 confidence 0.707613149706
+moment --> at&amp;t support : 0.0125595212682 confidence 0.837628401514
+at&amp;t --> moment support : 0.0125595212682 confidence 0.995033396129
+@bleacherreport: --> lebron support : 0.0162446923323 confidence 0.3891838003
+lebron --> @bleacherreport: support : 0.0162446923323 confidence 0.105389561669
+a… --> bats support : 0.0124119847232 confidence 0.653195301613
+bats --> a… support : 0.0124119847232 confidence 0.984061013754
+moment --> ball support : 0.0124119847232 confidence 0.827788790773
+ball --> moment support : 0.0124119847232 confidence 0.707613149706
+gay --> center.
+
+rudy support : 0.0124125251501 confidence 0.972231628852
+center.
+
+rudy --> gay support : 0.0124125251501 confidence 1.0
+all-star --> game support : 0.0118494003153 confidence 0.15589161672
+game --> all-star support : 0.0118494003153 confidence 0.258068312893
+return --> chucks support : 0.0124125251501 confidence 0.631353253251
+chucks --> return support : 0.0124125251501 confidence 0.998912712565
+return --> bails.
+lamarcus support : 0.0124125251501 confidence 0.631353253251
+bails.
+lamarcus --> return support : 0.0124125251501 confidence 1.0
+back. --> lebron support : 0.0126195086547 confidence 0.931060606061
+lebron --> back. support : 0.0126195086547 confidence 0.0818707094223
+a… --> center.
+
+rudy support : 0.0124119847232 confidence 0.653195301613
+center.
+
+rudy --> a… support : 0.0124119847232 confidence 0.999956461163
+https://t.co/4sfq42ipac --> feds support : 0.0133382764381 confidence 1.0
+feds --> https://t.co/4sfq42ipac support : 0.0133382764381 confidence 0.995964650337
+gay --> here
+
+the support : 0.0124125251501 confidence 0.972231628852
+here
+
+the --> gay support : 0.0124125251501 confidence 0.999912929909
+season --> bats support : 0.0124157677115 confidence 0.50760053027
+bats --> season support : 0.0124157677115 confidence 0.984360940914
+return --> a… support : 0.0125481723032 confidence 0.638252838176
+a… --> return support : 0.0125481723032 confidence 0.660362333267
+a… --> here
+
+the support : 0.0124119847232 confidence 0.653195301613
+here
+
+the --> a… support : 0.0124119847232 confidence 0.999869394863
+@rudegyalmauni: --> feds support : 0.0133382764381 confidence 1.0
+feds --> @rudegyalmauni: support : 0.0133382764381 confidence 0.995964650337
+center.
+
+rudy --> at&amp;t support : 0.0124125251501 confidence 1.0
+at&amp;t --> center.
+
+rudy support : 0.0124125251501 confidence 0.983387566364
+right --> season support : 0.0124622444254 confidence 0.42852895265
+season --> right support : 0.0124622444254 confidence 0.509500662837
+return --> bats support : 0.0124136060039 confidence 0.631408230023
+bats --> return support : 0.0124136060039 confidence 0.984189553965
+center.
+
+rudy --> bails.
+lamarcus support : 0.0124125251501 confidence 1.0
+bails.
+lamarcus --> center.
+
+rudy support : 0.0124125251501 confidence 1.0
+bats --> bails.
+lamarcus support : 0.0124125251501 confidence 0.984103860491
+bails.
+lamarcus --> bats support : 0.0124125251501 confidence 1.0
+@bleacherreport: --> nba support : 0.0114829908738 confidence 0.275104873375
+nba --> @bleacherreport: support : 0.0114829908738 confidence 0.0550631796084
+a… --> bails.
+lamarcus support : 0.0124119847232 confidence 0.653195301613
+bails.
+lamarcus --> a… support : 0.0124119847232 confidence 0.999956461163
+chucks --> ball support : 0.0124119847232 confidence 0.998869221067
+ball --> chucks support : 0.0124119847232 confidence 0.707613149706
+@worldwidewob: --> bats support : 0.0124119847232 confidence 0.890435389447
+bats --> @worldwidewob: support : 0.0124119847232 confidence 0.984061013754
+right --> chucks support : 0.012413065577 confidence 0.426837880027
+chucks --> right support : 0.012413065577 confidence 0.998956204062
+bats --> at&amp;t support : 0.0124222528344 confidence 0.984875101761
+at&amp;t --> bats support : 0.0124222528344 confidence 0.984158246275
+gay --> a… support : 0.012413065577 confidence 0.972273958686
+a… --> gay support : 0.012413065577 confidence 0.653252182816
+gay --> bats support : 0.012413065577 confidence 0.972273958686
+bats --> gay support : 0.012413065577 confidence 0.984146707228
+@bleacherreport: --> https://t.co/3ugixplld3 support : 0.0118521024498 confidence 0.283947899943
+https://t.co/3ugixplld3 --> @bleacherreport: support : 0.0118521024498 confidence 0.999954404523
+season --> best support : 0.0131707440976 confidence 0.538466637207
+best --> season support : 0.0131707440976 confidence 0.379598766394
+center.
+
+rudy --> here
+
+the support : 0.0124125251501 confidence 1.0
+here
+
+the --> center.
+
+rudy support : 0.0124125251501 confidence 0.999912929909
+center.
+
+rudy --> @worldwidewob: support : 0.0124119847232 confidence 0.999956461163
+@worldwidewob: --> center.
+
+rudy support : 0.0124119847232 confidence 0.890435389447
+gay --> moment support : 0.0124125251501 confidence 0.972231628852
+moment --> gay support : 0.0124125251501 confidence 0.827824833303
+return --> here
+
+the support : 0.0124136060039 confidence 0.631408230023
+here
+
+the --> return support : 0.0124136060039 confidence 1.0
+chucks --> nba support : 0.012413065577 confidence 0.998956204062
+nba --> chucks support : 0.012413065577 confidence 0.0595230691089
+right --> at&amp;t support : 0.0124136060039 confidence 0.426856463242
+at&amp;t --> right support : 0.0124136060039 confidence 0.983473197465
+@rudegyalmauni: --> sweep support : 0.0133382764381 confidence 1.0
+sweep --> @rudegyalmauni: support : 0.0133382764381 confidence 0.990846681922
+bails.
+lamarcus --> at&amp;t support : 0.0124125251501 confidence 1.0
+at&amp;t --> bails.
+lamarcus support : 0.0124125251501 confidence 0.983387566364
+chucks --> at&amp;t support : 0.0124125251501 confidence 0.998912712565
+at&amp;t --> chucks support : 0.0124125251501 confidence 0.983387566364
+right --> a… support : 0.0125957298709 confidence 0.433119006913
+a… --> right support : 0.0125957298709 confidence 0.662865106226
+right --> bails.
+lamarcus support : 0.0124125251501 confidence 0.426819296811
+bails.
+lamarcus --> right support : 0.0124125251501 confidence 1.0
+gay --> best support : 0.0124146868577 confidence 0.972400948188
+best --> gay support : 0.0124146868577 confidence 0.35780816797
+right --> ball support : 0.0124352230801 confidence 0.427599791868
+ball --> right support : 0.0124352230801 confidence 0.708937979481
+return --> gay support : 0.0124125251501 confidence 0.631353253251
+gay --> return support : 0.0124125251501 confidence 0.972231628852
+season --> @worldwidewob: support : 0.0124119847232 confidence 0.507445868316
+@worldwidewob: --> season support : 0.0124119847232 confidence 0.890435389447
+ball --> bats support : 0.0124119847232 confidence 0.707613149706
+bats --> ball support : 0.0124119847232 confidence 0.984061013754
+right --> here
+
+the support : 0.0124136060039 confidence 0.426856463242
+here
+
+the --> right support : 0.0124136060039 confidence 1.0
+@bleacherreport: --> back. support : 0.0118591279996 confidence 0.284116215236
+back. --> @bleacherreport: support : 0.0118591279996 confidence 0.874960127592
+center.
+
+rudy --> moment support : 0.0124125251501 confidence 1.0
+moment --> center.
+
+rudy support : 0.0124125251501 confidence 0.827824833303
+feds --> sweep support : 0.0133571913798 confidence 0.997377022719
+sweep --> feds support : 0.0133571913798 confidence 0.992251796539
+gay --> season support : 0.012413065577 confidence 0.972273958686
+season --> gay support : 0.012413065577 confidence 0.507490057446
+back. --> https://t.co/3ugixplld3 support : 0.0118526428767 confidence 0.874481658692
+https://t.co/3ugixplld3 --> back. support : 0.0118526428767 confidence 1.0
+return --> center.
+
+rudy support : 0.0124125251501 confidence 0.631353253251
+center.
+
+rudy --> return support : 0.0124125251501 confidence 1.0
+return --> moment support : 0.0124238741151 confidence 0.63193050936
+moment --> return support : 0.0124238741151 confidence 0.828581726437
+here
+
+the --> bails.
+lamarcus support : 0.0124125251501 confidence 0.999912929909
+bails.
+lamarcus --> here
+
+the support : 0.0124125251501 confidence 1.0
+right --> center.
+
+rudy support : 0.0124125251501 confidence 0.426819296811
+center.
+
+rudy --> right support : 0.0124125251501 confidence 1.0
+@rudegyalmauni: --> https://t.co/4sfq42ipac support : 0.0133382764381 confidence 1.0
+https://t.co/4sfq42ipac --> @rudegyalmauni: support : 0.0133382764381 confidence 1.0
+season --> moment support : 0.0124254953958 confidence 0.507998232435
+moment --> season support : 0.0124254953958 confidence 0.828689854028
+ball --> nba support : 0.0141554019182 confidence 0.807006192809
+nba --> ball support : 0.0141554019182 confidence 0.0678779114967
+here
+
+the --> at&amp;t support : 0.0124136060039 confidence 1.0
+at&amp;t --> here
+
+the support : 0.0124136060039 confidence 0.983473197465
+gay --> @worldwidewob: support : 0.0124119847232 confidence 0.972189299018
+@worldwidewob: --> gay support : 0.0124119847232 confidence 0.890435389447
+bats --> best support : 0.0124136060039 confidence 0.984189553965
+best --> bats support : 0.0124136060039 confidence 0.357777016292
+https://t.co/3ugixplld3 --> lebron support : 0.0118526428767 confidence 1.0
+lebron --> https://t.co/3ugixplld3 support : 0.0118526428767 confidence 0.0768955676009
+gay --> ball support : 0.0124119847232 confidence 0.972189299018
+ball --> gay support : 0.0124119847232 confidence 0.707613149706
+a… --> best support : 0.0126227512161 confidence 0.664287136316
+best --> a… support : 0.0126227512161 confidence 0.363804865892
+season --> at&amp;t support : 0.0124136060039 confidence 0.507512152011
+at&amp;t --> season support : 0.0124136060039 confidence 0.983473197465
+@worldwidewob: --> ball support : 0.0124119847232 confidence 0.890435389447
+ball --> @worldwidewob: support : 0.0124119847232 confidence 0.707613149706
+return --> best support : 0.0124254953958 confidence 0.632012974518
+best --> return support : 0.0124254953958 confidence 0.358119684745
+season --> bails.
+lamarcus support : 0.0124125251501 confidence 0.507467962881
+bails.
+lamarcus --> season support : 0.0124125251501 confidence 1.0
+https://t.co/4sfq42ipac --> sweep support : 0.0133382764381 confidence 1.0
+sweep --> https://t.co/4sfq42ipac support : 0.0133382764381 confidence 0.990846681922
+gay --> chucks support : 0.0124125251501 confidence 0.972231628852
+chucks --> gay support : 0.0124125251501 confidence 0.998912712565
+moment --> nba support : 0.0128086580714 confidence 0.854244007929
+nba --> moment support : 0.0128086580714 confidence 0.0614200122317
+season --> herethe support : 0.012413065577 confidence 0.507490057446
+herethe --> season support : 0.012413065577 confidence 0.999956464954
+season --> chucks support : 0.0124119847232 confidence 0.507445868316
+chucks --> season support : 0.0124119847232 confidence 0.998869221067
+center.
+
+rudy --> ball support : 0.0124119847232 confidence 0.999956461163
+ball --> center.
+
+rudy support : 0.0124119847232 confidence 0.707613149706
+@worldwidewob: --> here
+
+the support : 0.0124119847232 confidence 0.890435389447
+here
+
+the --> @worldwidewob: support : 0.0124119847232 confidence 0.999869394863
+@worldwidewob: --> nba support : 0.012413065577 confidence 0.890512929865
+nba --> @worldwidewob: support : 0.012413065577 confidence 0.0595230691089
+a… --> chucks support : 0.0124119847232 confidence 0.653195301613
+chucks --> a… support : 0.0124119847232 confidence 0.998869221067
+center.
+
+rudy --> bats support : 0.0124125251501 confidence 1.0
+bats --> center.
+
+rudy support : 0.0124125251501 confidence 0.984103860491
+chucks --> moment support : 0.0124125251501 confidence 0.998912712565
+moment --> chucks support : 0.0124125251501 confidence 0.827824833303
+return --> ball support : 0.0124119847232 confidence 0.631325764864
+ball --> return support : 0.0124119847232 confidence 0.707613149706
+best --> at&amp;t support : 0.0124136060039 confidence 0.357777016292
+at&amp;t --> best support : 0.0124136060039 confidence 0.983473197465
+gay --> bails.
+lamarcus support : 0.0124125251501 confidence 0.972231628852
+bails.
+lamarcus --> gay support : 0.0124125251501 confidence 1.0
+@worldwidewob: --> bails.
+lamarcus support : 0.0124119847232 confidence 0.890435389447
+bails.
+lamarcus --> @worldwidewob: support : 0.0124119847232 confidence 0.999956461163
+moment --> bats support : 0.0124141464308 confidence 0.827932960894
+bats --> moment support : 0.0124141464308 confidence 0.984232400703
