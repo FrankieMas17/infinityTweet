@@ -34,7 +34,7 @@ def findNextPrime(n):
             return p
     return None
 
-def hash(a, b,prime):
+def firstHash(a, b,prime):
     return (ascii(a) ^ ascii(b)) % prime
 
 def secondHash(a,  b , prime , prime2):
@@ -101,7 +101,7 @@ for line in tqdm(infinityDF.flatMap(lambda tweet : Row(tweet.text.lower().split(
     
     couples  = list(itertools.combinations(cleanTweet , 2)) #we use itertools to create all the combination (pairs) in all the words we have of the tweet
     for pair in couples: #for every pair in the combination
-        hashedValue  = hash(pair[0] , pair[1] , nextPrime) #we use the 1st hash function to hash the value of the pair to a bucket
+        hashedValue  = firstHash(pair[0] , pair[1] , nextPrime) #we use the 1st firstHash function to firstHash the value of the pair to a bucket
         hashedValue2 = secondHash(pair[0] , pair[1] , nextPrime , nextPrime2)
         pairsSet.add(pair)
         if hashMap.get(hashedValue):
@@ -132,13 +132,13 @@ for key , value in hashMapTwo.items():
         bitmapTwo.setdefault(key , True)
 del hashMapTwo
 
-frequentPairs=list()
-frequentItems=dict()
+#frequentPairs=list()
+#frequentItems=dict()
 candidatePairs= dict()
 
 #print(pairsSet)
 for pair in pairsSet:
-    hkey1 = hash(pair[0] , pair[1] , nextPrime)
+    hkey1 = firstHash(pair[0] , pair[1] , nextPrime)
     hkey2 = secondHash(pair[0] , pair[1] , nextPrime , nextPrime2)
     #print(bitMap.get(hkey1) and bitmapTwo.get(hkey2))
     if(bitMap.get(hkey1) and bitmapTwo.get(hkey2)):
@@ -155,14 +155,15 @@ for line in tqdm(infinityDF.flatMap(lambda tweet : Row(tweet.text.lower().split(
     for pair in couples: #for every pair in the combination
         if candidatePairs.get(pair) != None:
             candidatePairs[pair] +=1
+
 frequentItems = findMinSupport(itemsFreq, support)
 frequentPairs = findMinSupport(candidatePairs, support)
 
 associationRules = list()
 for key , value in frequentPairs.items():
     supportPair = float(value) / count
-    conf1 = float(value) / frequentItems[key[0]]
-    conf2 = float(value) / frequentItems[key[1]]
+    conf1 = float(supportPair) / frequentItems[key[0]]
+    conf2 = float(supportPair) / frequentItems[key[1]]
     associationRules.append(unicode(key[0])+" --> "+unicode(key[1])+" support : "+str(supportPair)+" confidence "+ str(conf1)) 
     associationRules.append(unicode(key[1])+" --> "+unicode(key[0])+" support : "+str(supportPair)+" confidence "+ str(conf2)) 
 
@@ -190,7 +191,7 @@ dataFpairs = sqlContext.createDataFrame(pairs)
 dataFpairs.sort(col('frequency').desc()).show(20)
 dataFitems.sort(col('frequency').desc()).show(20)
 
-dataFitems.toPandas().to_csv('/textItems.csv')
-dataFpairs.toPandas().to_csv('/textPairs.csv')
+dataFitems.toPandas().to_csv('textItems.csv')
+dataFpairs.toPandas().to_csv('textPairs.csv')
 
 #dataFitems.write.format('solr').option("zkHost","172.16.175.155:9983").option("collection","endGame").save()

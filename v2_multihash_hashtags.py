@@ -171,8 +171,8 @@ frequentPairs = findMinSupport(candidatePairs, support)
 associationRules = list()
 for key , value in frequentPairs.items():
     supportPair = float(value) / count
-    conf1 = float(value) / frequentItems[key[0]]
-    conf2 = float(value) / frequentItems[key[1]]
+    conf1 = float(supportPair) / frequentItems[key[0]]
+    conf2 = float(supportPair) / frequentItems[key[1]]
     associationRules.append(unicode(key[0])+" --> "+unicode(key[1])+" support : "+str(supportPair)+" confidence "+ str(conf1)) 
     associationRules.append(unicode(key[1])+" --> "+unicode(key[0])+" support : "+str(supportPair)+" confidence "+ str(conf2)) 
 
